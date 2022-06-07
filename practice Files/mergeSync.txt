@@ -1,0 +1,14 @@
+-------Data from Testing file ------- 
+ I am just a Texting File nothing else 😶 
+
+-----Data from Fruits File ------- 
+ Types of fruit ✨
+Apples and pears.
+Citrus – oranges, grapefruits, mandarins and limes.
+Stone fruit – nectarines, apricots, peaches and plums.
+Tropical and exotic – bananas and mangoes.
+Berries – strawberries, raspberries, blueberries, kiwifruit and passionfruit.
+Melons – watermelons, rockmelons and honeydew melons.
+
+-------Vegetables ------- 
+ Brussels Sprouts,Carrots,Swiss Chard,Parsnips,Collard Greens,Rutabagas,Red Cabbage 
